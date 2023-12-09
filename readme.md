@@ -92,22 +92,3 @@ The dataset consists of more than two million customer complaints about consumer
 
 ---
 
-## Key Concepts Explored
-
-1. Understanding the business problem
-2. Introduction to the attention mechanism
-3. Understanding how the attention mechanism works
-4. Working with pre-trained word vectors
-5. Steps to process GloVe embeddings
-6. Data preparation for the models
-7. Handling spaces and digits
-8. Punctuation removal
-9. Architecting the attention model
-10. Creating a data loader for the attention model
-11. Building the attention model
-12. Training the attention model using GPU or CPU
-13. Making predictions on new text data
-14. Understanding how to use attention with RNN
-
----
-
